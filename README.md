@@ -12,7 +12,7 @@ Having no component hierarchy makes it more simple to place components anywhere 
 
 **tl;dr: Deploy > App Launcher > Service Components**
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=tsalb&repo=sfdc-lightning-service-components&ref=master">
+<a href="https://githubsfdeploy.herokuapp.com?owner=PankajHingane-REISysIn&repo=sfdc-lightning-service-components&ref=master">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
