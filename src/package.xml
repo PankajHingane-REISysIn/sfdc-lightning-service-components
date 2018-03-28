@@ -21,10 +21,6 @@
 		<name>CustomApplication</name>
 	</types>
 	<types>
-		<members>SC_Sample_App</members>
-		<name>CustomTab</name>
-	</types>
-	<types>
 		<members>Service_Components_Hello_World</members>
 		<members>Service_Components_UtilityBar</members>
 		<name>FlexiPage</name>
